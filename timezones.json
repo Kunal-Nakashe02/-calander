@@ -1,0 +1,27 @@
+[
+    {
+      "label": "UTC+0",
+      "value": "UTC"
+    },
+    {
+      "label": "UTC+1",
+      "value": "Europe/Paris"
+    },
+    {
+      "label": "UTC+2",
+      "value": "Asia/Istanbul"
+    },
+    {
+      "label": "UTC-4",
+      "value": "America/New_York"
+    },
+    {
+      "label": "UTC-7",
+      "value": "America/Los_Angeles"
+    },
+    {
+      "label": "UTC-5",
+      "value": "America/Bogota"
+    }
+  ]
+  
